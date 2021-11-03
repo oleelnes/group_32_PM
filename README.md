@@ -1,10 +1,11 @@
 # group_32_PM
-# Prog2002 assignment 1
+
+Prog2002 assignment 1
 
 By Group 32
 Members: 
-  Anders Brunsberg Mariendal
-  Ole Kristian Elnæs
+  * Anders Brunsberg Mariendal
+  * Ole Kristian Elnæs
   
 -- How to run on Windows with CMake --
   1. Open Visual Studio
